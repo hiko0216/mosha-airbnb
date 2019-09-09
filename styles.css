@@ -1,0 +1,434 @@
+header{
+  height: 90px;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.nav{
+  padding: 30px;
+  margin-left: 60px;
+
+}
+.nav a{
+  margin: 10px;
+  color: black;
+}
+.nav i{
+  color:#008489;
+}
+.nav a:hover{
+  color: black;
+  border-bottom: 1px solid black;
+}
+.start{
+  background: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  width:450px;
+  height: 450px;
+
+}
+.start-in{
+  margin: 25px;
+}
+.start h2{
+  font-size: 37px;
+  font-weight: bold;
+}
+.start p{
+  margin-top: 10px;
+  opacity: 0.8;
+}
+.start input{
+  width: 400px;
+  height: 50px;
+  border-radius: 5px;
+}
+.body-1 img{
+  position: relative;
+}
+.start{
+  position: absolute;
+  top: 150px;
+  right: 120px;
+}
+.select1,.select2{
+  background: white;
+  margin: 10px 10px 10px 0;
+}
+.select1{
+  width: 250px;
+  height: 50px;
+}
+.select2{
+  width: 120px;
+  height: 50px;
+}
+.number{
+  font-size: 35px;
+  font-weight: bold;
+}
+.des{
+  font-size: 15px;
+}
+.start2 button{
+  width: 400px;
+  height: 50px;
+  background: red;
+  color: white;
+  border-radius: 5px;
+}
+.estimate{
+  padding: 30px;
+  margin-right: 40px;
+}
+.estimate span,button{
+  margin: 5px;
+}
+.one{
+  font-size: 12px;
+}
+.two{
+  font-size: 25px;
+  font-weight: bold;
+}
+.estimate button{
+  padding: 10px;
+  background: red;
+  color: white;
+  border-radius: 5px;
+}
+.title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 60px;
+}
+.bord{
+  width: 64px;
+  border: 1px solid #767676;
+  margin: 60px auto 20px;
+}
+.pic{
+  margin: 20px;
+}
+.step h3{
+  font-size: 24px;
+    font-weight: 800;
+    line-height: 1.25em;
+    color: #484848;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.step p{
+  color: #484848;
+}
+.step a{
+  color: #008489;
+}
+#hiko{
+  font-weight: normal;
+  color: #484848;
+  font-size: 15px;
+}
+.card3{
+  margin: 0 auto;
+}
+.card3 p h3{
+  margin:0 0 0 20px;
+}
+.step2 p{
+  color: #484848;
+  margin: 10px 0;
+}
+.step2 a{
+  color: #008489;
+}
+.body-4 img{
+  margin-left:12%;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.body-5{
+  margin-bottom: 100px;
+}
+.body-6-con{
+  margin-top: 50px;
+}
+.body-6-con i{
+  font-size: 50px;
+  color: orange;
+}
+.body-6-con h3{
+  font-size: 30px;
+  margin: 20px 0 20px;
+  color: #484848;
+}
+.body-7 h3{
+  font-size: 60px;
+  text-align: center;
+  color: #484848;
+}
+.body-7 p{
+  text-align: center;
+  color: #484848;
+}
+.body-7{
+  margin-top: 80px;
+}
+.body-8{
+  margin-top: 150px;
+}
+.body-9{
+  margin-top: 150px;
+}
+.border2{
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+.body-9 p{
+  font-size: 17px;
+}
+.body-9 a{
+  color: #008489;
+}
+.body-10 h3{
+  font-size: 18px;
+}
+.body-10 p{
+  font-size: 15px;
+  margin: 0;
+}
+.body-10 a{
+  color: #008489;
+}
+.body-10 h2{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 18%;
+}
+.body-11 img{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 30px;
+}
+.body-11{
+  position: relative;
+}
+.body-11-2{
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+.body-11-2 h2{
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+}
+.body-11-2 button{
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.body-12{
+  display: flex;
+  justify-content: center;
+}
+.body-12 div{
+  margin: 50px;
+}
+.body-12 h4{
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.body-12 p{
+  font-size: 12px;
+  margin: 3px;
+  opacity: 0.7;
+}
+.body-12 span{
+  background:#007a87;
+  color: white;
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  border-radius: 3px;
+}
+.border3{
+  border-bottom: 1px solid gray;
+  margin-top: 60px
+}
+footer{
+  margin-left: 20%;
+}
+.border4{
+  width: 70%;
+  border-bottom: 1px solid gray;
+  margin: 30px auto 30px;
+
+}
+
+@media screen and (max-width:800px){
+  .estimate{
+    display: none;
+  }
+  header{
+    height: 0;
+  }
+  .body-1 img{
+    width: 100%;
+    height: auto;
+  }
+  .nav i{
+    float: left;
+  }
+  nav i{
+    position: absolute;
+  }
+  .start{
+    background: none;
+    border:none;
+    border-radius: 5px;
+    width:100%;
+    height: auto;
+
+  }
+  .start-in{
+    margin: 0px;
+  }
+  .start h2{
+    font-size: 37px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    color: white;
+    top: 140px;
+    left: 20px;
+  }
+  .start p{
+    margin-top: 20px;
+    opacity: 0.8;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .start input{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  .body-1 img{
+    position: relative;
+  }
+  .start{
+    position: static;
+    top: 0px;
+    right: 0px;
+  }
+  .select1{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+  .select2{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
+  .start-in input{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 50px;
+  }
+  .start2 button{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+  .start2 p{
+    text-align: left;
+    margin-left: 5%;
+  }
+  .body-2,.body-3,.body-4,.body-5,.body-7,.body-8,.border3,.body-12{
+    display: none;
+  }
+  .body-6 img{
+    width: 96%;
+    margin-left: 7%;
+    margin-right: 2%;
+    margin-top: 50px;
+  }
+  .body-6-con i{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 0;
+
+  }
+  .body-6-con h3{
+    font-size: 20px;
+    text-align: left;
+
+  }
+  .body-6-con p{
+    font-size: 15px;
+    text-align: left;
+
+  }
+  .body-6-con{
+    margin-left: 7%;
+    margin-top: 8px;
+  }
+  .body-11 img{
+    width: 100%;
+    height: 400px;
+    margin-left:0;
+    margin-right: 0;
+    margin-top: 30px;
+  }
+  .body-11{
+    position: relative;
+  }
+  .body-11-2{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+  }
+  .body-11-2 h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+  }
+  .body-11-2 button{
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .border4{
+    width: 100%;
+  }
+  footer{
+    margin-left: 0;
+    margin-bottom: 30px;
+  }
+  .bord{
+    margin-left: 0;
+  }
+  .title{
+    font-size: 40px;
+    text-align: left;
+    margin-top: 30px;
+  }
+  .body-10 h2{
+    margin-left: 10px;
+    font-size:26px;
+  }
+  .card1 div{
+    display: flex;
+    flex-direction:  column;
+  }
+
+}
